@@ -17,9 +17,9 @@ python main.py
 You can customize the password generation parameters by instantiating the `PasswordGenerator` class with your preferred settings.
 
 Example:
-\```
+```
 generator = PasswordGenerator(pw_length=16, min_digits=4, min_special_chars=2)
-\```
+```
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
