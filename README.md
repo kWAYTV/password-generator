@@ -9,7 +9,7 @@ A customizable and efficient password generator built with Python! 🐍
 
 ## 🛠 Installation & Usage
 1. 🚀 Run the script:
-\```
+```
 python main.py
 ```
 
